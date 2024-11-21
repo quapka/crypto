@@ -140,7 +140,7 @@ this observation already suggests a guess for what would be a number that is
 divisible by neither $p$ nor $q$, namely $pq+1$. Indeed, the remainder of
 $n=pq+1$ when dividing by either $p$ or $q$ would be $1$ (which in particular is
 not zero). This observation generalizes and we can set $n=pqr+1$ to be a number
-that is divisible neither by $p,q$ nor $r$, and more generally $n=p_1\cdots, p_k
+that is divisible neither by $p,q$ nor $r$, and more generally $n=p_1\cdots p_k
 +1$ is not divisible by $p_1,\ldots,p_k$.
 
 Now we have convinced ourselves of the statement and it is time to think of how
